@@ -87,3 +87,8 @@ IniFilePatcher/obj
 .sp
 CodeGraphData/*
 Plugins/FMODStudio/Intermediate
+
+
+
+# Start Content
+ Content/StarterContent/*
