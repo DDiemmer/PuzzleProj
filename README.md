@@ -2,6 +2,8 @@
 
 Unreal PuzzleProject
 
+# NOTE: The full code is on the development branch because the code is WIP, and this project was created to learn about engines.  the final project will be refactored in a new project with clean code.
+
 
 [![campoMinadoThumb](https://user-images.githubusercontent.com/19962199/126581585-f5c9b573-fc92-429b-a91c-d3000d1ba6bb.PNG)](https://youtu.be/HSRaZN3VPg0 "Video Testando")
 
